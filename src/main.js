@@ -1,3 +1,5 @@
-export default function hello() {
-	return "Hello World!";
-}
+import { SyncService } from './SyncService';
+
+module.exports = {
+	SyncService
+};
