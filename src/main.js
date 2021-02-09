@@ -1,5 +1,5 @@
 import { SyncService } from './SyncService';
 
-module.exports = {
+export {
 	SyncService
 };
